@@ -6,7 +6,7 @@ Test your knowledge on Linux commands with this interactive quiz.
 
 To take the quiz, please visit the following link:
 
-[Linux Command Quiz](https://your-username.github.io/your-repository/)
+[Linux Command Quiz](https://github.com/shegerlab2023/linux-exercise-devops.git/)
 
 ## Folder Structure
 
